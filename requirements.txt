@@ -1,2 +1,3 @@
 nltk==3.7
 slearn==0.2.5
+numpy==1.21.0
