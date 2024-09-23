@@ -1,2 +1,2 @@
 nltk==3.7
-slearn==1.1.1
+slearn==0.2.5
