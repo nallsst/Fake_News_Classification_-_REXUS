@@ -1,3 +1,2 @@
-nltk==3.7
-slearn==0.2.5
-numpy==1.21.0
+nltk==3.8.1
+sklearn==1.2.2
