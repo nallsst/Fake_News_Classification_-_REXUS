@@ -1,6 +1,8 @@
 import streamlit as st
 import nltk
 import sklearn
+import xgboost
+from xgboost import XGBClassifier
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import pickle
